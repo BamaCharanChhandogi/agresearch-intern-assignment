@@ -2,7 +2,8 @@
 ### Software Developer Intern Take-Home Assignment
 **Candidate:** Bama Charan Chhandogi  
 **Submission Commit:** `$(git rev-parse HEAD)`  
-**Repository:** Public GitHub Repository  
+**Repository:** [https://github.com/BamaCharanChhandogi/agresearch-intern-assignment](https://github.com/BamaCharanChhandogi/agresearch-intern-assignment)  
+**Live API (Vercel + Neon PostgreSQL):** [https://agresearch-assignment.vercel.app](https://agresearch-assignment.vercel.app)  
 
 ---
 
